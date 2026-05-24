@@ -5,3 +5,6 @@ jsonschema>=4.20
 python-dotenv>=1.0
 Pillow>=10.0
 requests>=2.31
+
+# Google AI Studio — free-tier Veo 2 video generation (google_studio_video tool)
+google-genai>=1.0
